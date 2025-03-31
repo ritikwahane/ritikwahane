@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey  👋, I am Ritik Wahane<br>Passinate Software Engineer</h1>
+<h1 align="center">hey  👋, I am Ritik Wahane</h1>
 
 ###
 
