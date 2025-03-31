@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm from Nagpur<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning Kafka, RabbitMq<br>- ⚡ In my free time, I watch historical videos.</p>
+<p align="left">I'm from Nagpur<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning Kafka, RabbitMQ<br>- ⚡ In my free time, I watch historical videos.</p>
 
 ###
 
