@@ -15,10 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ritikwahane.ritikwahane&"  />
-</div>
-
 ###
 
 <h1 align="center">hey  👋, I am Ritik Wahane</h1>
@@ -29,7 +25,7 @@
 
 ###
 
-<p align="left">I'm from Nagpur<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning Kafka, RabbitMQ<br>- ⚡ In my free time, I watch historical videos.</p>
+<p align="left">I'm from Nagpur, Maharashtra<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning Kafka, RabbitMQ<br>- ⚡ In my free time, I watch historical videos.</p>
 
 ###
 
@@ -78,3 +74,6 @@
 </div>
 
 ###
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikwahane&layout=compact&theme=radical" alt="ritikwahane" />
+</div>
