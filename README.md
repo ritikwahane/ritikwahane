@@ -15,7 +15,13 @@
 
 ###
 
-<h1 align="center">hey  👋, I am Ritik Wahane</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ritikwahane.ritikwahane&"  />
+</div>
+
+###
+
+<h1 align="center">hey  👋, I am Ritik Wahane<br>Passinate Software Engineer</h1>
 
 ###
 
@@ -64,5 +70,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ritikwahane&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
