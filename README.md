@@ -71,5 +71,5 @@
 
 ###
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikwahane&layout=compact&exclude_repo=PPL_lab_assignments&theme=radical" alt="ritikwahane" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikwahane&layout=compact&exclude_repo=PPL_lab_assignments&excluse_repo=PPL_Lab&theme=radical" alt="ritikwahane" />
 </div>
