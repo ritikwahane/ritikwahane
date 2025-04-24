@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm from Nagpur, Maharashtra<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning Kafka, RabbitMQ<br>- ⚡ In my free time, I watch historical videos.</p>
+<p align="left">- 🔭 I’m working as a Software Engineer<br>- 👯 I’m looking to collaborate on Java, SpringBoot, Microservices <br>- 📚 I'm currently learning Kafka, RabbitMQ<br>- ⚡ In my free time, I watch historical videos.</p>
 
 ###
 
